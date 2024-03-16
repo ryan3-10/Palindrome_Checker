@@ -1,0 +1,41 @@
+body {
+    background-color: #FFEAAE;
+    text-align: center;
+    min-width: 300px;
+    padding-top: 10em;
+}
+
+.block {
+    display: block;
+    margin: auto auto 1em auto;
+}
+
+label {
+    font-size: 24px;
+}
+
+input {
+    height: 2em;
+    font-size: 18px;
+}
+
+button {
+    font-size: 18px;
+    background-color: #FF8200;
+    color: #0A0903;
+    border-width: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+    padding: 0.8em;
+}
+
+p {
+    font-size: 18px;
+    background-color: #0a0903;
+    color: #FFC100;
+    width: 25%;
+    margin: auto;
+    margin-top: 1em;
+    padding: 1em;
+    border: #FF0000 double 8px;
+}
