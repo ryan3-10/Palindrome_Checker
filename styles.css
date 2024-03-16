@@ -38,4 +38,5 @@ p {
     margin-top: 1em;
     padding: 1em;
     border: #FF0000 double 8px;
+    min-width: 200px;
 }
